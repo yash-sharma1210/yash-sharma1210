@@ -40,9 +40,8 @@ Here are some ideas to get you started:
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yash-sharma1210&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+ 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yash-sharma1210&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
